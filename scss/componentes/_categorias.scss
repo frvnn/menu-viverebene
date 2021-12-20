@@ -35,6 +35,13 @@
         h3 {
             font-family: $fuente;
             color: $verde;
+            font-size: 35px;
             padding-left: 15px;
+        }
+        h4 {
+            font-family: $fuente;
+            color: $verde;
+            padding-left: 15px;
+            font-size: $nombre-producto;
         }
 }

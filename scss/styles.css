@@ -45,7 +45,15 @@
 .categoria h3 {
   font-family: "Strawberry Blossom";
   color: #1E8250;
+  font-size: 35px;
   padding-left: 15px;
+}
+
+.categoria h4 {
+  font-family: "Strawberry Blossom";
+  color: #1E8250;
+  padding-left: 15px;
+  font-size: 28px;
 }
 
 header {
@@ -75,10 +83,6 @@ header {
 body {
   margin: 0;
   padding: 0;
-}
-
-body h3 {
-  font-size: 30px;
 }
 
 main {
