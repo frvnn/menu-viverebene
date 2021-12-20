@@ -20,6 +20,7 @@
             border-radius: 52px;
             text-align: left;
             font: normal normal normal 10px/10px Antipasto Pro;
+            font-family: $fuente-seccion;
             letter-spacing: 0px;
             color: #1E8250;
             display: flex;
@@ -31,7 +32,7 @@
             height: 20px;
             color: var(--unnamed-color-1e8250);
             text-align: left;
-            font: normal normal bold 18px/21px Arial Rounded MT;
+            font-family: 'Arial Rounded MT';
             letter-spacing: 0px;
             color: #1E8250;
         }
@@ -44,8 +45,8 @@
     p {
         padding-left: 18px;
         text-align: left;
-        font: normal normal normal 12px/13px Antipasto Pro;
         letter-spacing: 0px;
         color: #808080;
+        font-family: $fuente-seccion;
     }
 }

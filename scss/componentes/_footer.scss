@@ -1,0 +1,22 @@
+footer {
+    height: 60px;
+    background-color: $verde;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-family: $fuente-seccion;
+    margin-bottom: 0px;
+    align-items: center;
+    span {
+        color: $blanco;
+        margin: 10px;
+        text-align: center;
+        font-size: 0.875rem;
+        align-self: center;
+
+    }
+    img {
+        width: 80px;
+        height: 15px;
+    }
+}
