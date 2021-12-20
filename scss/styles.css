@@ -14,9 +14,6 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -37,12 +34,14 @@
   border: 0.5px solid #1E8250;
   color: #1E8250;
   border-radius: 50px;
+  margin-left: auto;
 }
 
 .categoria h3 {
   font-family: "Strawberry Blossom";
   color: #1E8250;
   font-size: 35px;
+  padding-left: 15px;
 }
 
 header {
@@ -55,7 +54,7 @@ header {
   height: 60px;
   top: 0px;
   left: 0px;
-  border-bottom: 0.3px solid #F2F3F380;
+  border-bottom: 0.5px solid #F2F3F380;
 }
 
 #logo {
@@ -71,6 +70,11 @@ header {
 body {
   margin: 0;
   padding: 0;
+}
+
+body h1 {
+  margin: 15px;
+  text-align: center;
 }
 
 main {

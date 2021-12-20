@@ -9,7 +9,6 @@
     height: 50px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
         img {
             width: 50px;
@@ -25,10 +24,12 @@
             border: 0.5px solid $verde;
             color: $verde;
             border-radius: 50px;
+            margin-left: auto;
         }
         h3 {
             font-family: $fuente;
             color: $verde;
             font-size: 35px;
+            padding-left: 15px;
         }
 }
