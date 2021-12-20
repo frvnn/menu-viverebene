@@ -37,6 +37,10 @@
   margin-left: auto;
 }
 
+.categoria button i {
+  margin: auto;
+}
+
 .categoria h3 {
   font-family: "Strawberry Blossom";
   color: #1E8250;
