@@ -9,6 +9,7 @@
     height: 50px;
     display: flex;
     flex-direction: row;
+    margin-bottom: 20px;
     align-items: center;
         img {
             width: 50px;
@@ -26,7 +27,7 @@
             border-radius: 50px;
             margin-left: auto;
             i {
-                margin: auto;
+                margin: 0 auto;
             }
         }
         h3 {
