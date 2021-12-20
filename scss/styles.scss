@@ -1,0 +1,24 @@
+@import "componentes/variables";
+@import "componentes/categorias";
+@import "componentes/cards";
+@import "componentes/header";
+
+@font-face {
+	font-family: "Strawberry Blossom";
+	src: url("/fonts/Strawberry\ Blossom.ttf");
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: $fuente;
+    color: $verde;
+}

@@ -1,0 +1,89 @@
+.categoria {
+  padding: 9px;
+  background: var(--unnamed-color-f2f3f380) 0% 0% no-repeat padding-box;
+  border: 0.5px solid var(--unnamed-color-1e8250);
+  background: #F2F3F380 0% 0% no-repeat padding-box;
+  border: 0.5px solid #1E8250;
+  border-radius: 15px;
+  width: 300px;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.categoria img {
+  width: 50px;
+  height: 50px;
+  border: 0.5px solid var(--unnamed-color-1e8250);
+  background: transparent url("img/Yogurt Premium PNG sin fondo.png") 0% 0% no-repeat padding-box;
+  border: 0.5px solid #1E8250;
+  border-radius: 5px;
+}
+
+.categoria button {
+  height: 25px;
+  width: 25px;
+  border: 0.5px solid #1E8250;
+  color: #1E8250;
+  border-radius: 50px;
+}
+
+.categoria h3 {
+  font-family: "Strawberry Blossom";
+  color: #1E8250;
+  font-size: 35px;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 60px;
+  top: 0px;
+  left: 0px;
+  border-bottom: 0.3px solid #F2F3F380;
+}
+
+#logo {
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+
+@font-face {
+  font-family: "Strawberry Blossom";
+  src: url("/fonts/Strawberry Blossom.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+h1 {
+  font-family: "Strawberry Blossom";
+  color: #1E8250;
+}
+/*# sourceMappingURL=styles.css.map */
