@@ -77,11 +77,6 @@ body {
   padding: 0;
 }
 
-body h1 {
-  margin: 15px;
-  text-align: center;
-}
-
 main {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -98,8 +93,30 @@ main {
           align-items: center;
 }
 
+main a {
+  text-decoration: none;
+}
+
 h1 {
   font-family: "Strawberry Blossom";
   color: #1E8250;
+}
+
+#titulo {
+  height: 60px;
+  background-color: #1E8250;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 20px;
+}
+
+#titulo h1 {
+  color: #FFF;
+  margin: 15px;
+  text-align: center;
 }
 /*# sourceMappingURL=styles.css.map */
