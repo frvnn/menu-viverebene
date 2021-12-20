@@ -65,6 +65,7 @@ header {
 #logo {
   margin-top: 9px;
   margin-bottom: 9px;
+  width: 92px;
 }
 
 @font-face {
