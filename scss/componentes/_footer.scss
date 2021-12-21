@@ -1,5 +1,5 @@
 footer {
-    position: fixed;
+    position: absolute;
     width: 100%;
     bottom: 0;
     height: 40px;
@@ -16,10 +16,10 @@ footer {
         text-align: center;
         font-size: 0.875rem;
         align-self: center;
-
+        font-size: 0.7em;
     }
     img {
-        width: 80px;
-        height: 15px;
+        width: 55px;
+        height: 10px;
     }
 }
