@@ -76,7 +76,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin: 15px;
+  margin: 15px 15px 4px 15px;
 }
 
 .card .card-subtitulo #seccion {
@@ -126,6 +126,8 @@
   letter-spacing: 0px;
   color: #808080;
   font-family: "Antipasto-Regular";
+  font-size: 12px;
+  margin-top: 8px;
 }
 
 header {
@@ -188,7 +190,7 @@ footer span {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
-  font-size: 0.7em;
+  font-size: 0.7gem;
 }
 
 footer img {
