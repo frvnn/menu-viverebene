@@ -14,7 +14,7 @@
 
         <header>
             <div>
-                <a href="#">
+                <a href="/categorias/" style="outline: none">
                     <img id="logo" src="/img/logo_vivere.png" alt="">
                 </a>
             </div>
@@ -35,6 +35,13 @@
         </footer>
 
         <script>
+
+
+            //console.log(window.location.search.substring(1))
+            const urlParams = new URLSearchParams( window.location.search);
+            const numeroProducto = urlParams.get('producto');
+            console.log(numeroProducto)
+
             var contenido = document.querySelector('#card')
 
             fetch('/json/productos.json')
@@ -46,17 +53,18 @@
 
             function tabla(datos) {
                 
-                var producto = datos[0]
+                var producto = datos[numeroProducto]
                 contenido.innerHTML = `
                     <img src=${producto.urlImagen} alt="">
                     <div class="card-subtitulo">
-                        <span id="seccion">${producto.seccion}</span>
+                        <span id="seccion">${producto.tag}</span>
                         <span id="precio">${producto.precio}</span>
                     </div>
                     <h3>${producto.nombre}</h3>
                     <p>${producto.descripcion}</p>
                 `
             }
+
         </script>
         
 </body>

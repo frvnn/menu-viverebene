@@ -1,17 +1,19 @@
 [
             {
-                "id": 1,
-                "seccion": "YOGURTS",
-                "nombre": "Yogurt Mediano",
+                "id": 0,
+                "tag": "YOGURTS",
+                "seccion": "Yogurts Helados",
+                "nombre": "Yogurt Helado Mini",
                 "precio": "$220",
                 "descripcion": "Probando muchos caracteres",
                 "urlImagen": "/img/delivery.jpg"
             },
             {
-                "id": 2,
+                "id": 1,
+                "tag": "YOGURTS",
                 "seccion": "YOGURTS",
-                "nombre": "yogurt mediano",
-                "precio": "$220",
+                "nombre": "Yogurt Helado Chico",
+                "precio": "$212",
                 "descripcion": "probando muchos caracteres",
                 "urlImagen": "img-1"
             }
