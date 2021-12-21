@@ -176,6 +176,8 @@ header #back {
   width: 60px;
   height: 60px;
   margin-top: -9px;
+  position: absolute;
+  left: 0;
 }
 
 #logo {
