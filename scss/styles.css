@@ -277,7 +277,7 @@ h1 {
       -ms-flex-pack: center;
           justify-content: center;
   margin-bottom: 20px;
-  position: absolute;
+  position: fixed;
   width: 100%;
   top: 60px;
 }
