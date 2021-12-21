@@ -148,8 +148,9 @@ header {
 }
 
 footer {
-  position: absolute;
+  position: fixed;
   width: 100%;
+  bottom: 0;
   height: 60px;
   background-color: #1E8250;
   display: -webkit-box;
@@ -211,8 +212,6 @@ main {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  overflow: scroll;
-  position: relative;
 }
 
 main a {
