@@ -10,6 +10,8 @@
 </head>
 
 <body>
+
+
         <header>
             <div>
                 <a href="#">
@@ -23,19 +25,39 @@
         </section>
 
         <main>
-            <div class="card">
-                <img src="/img/logo_vivere.png" alt="">
-                <div class="card-subtitulo">
-                    <span id="seccion">YOGURTS</span>
-                    <span id="precio">$220</span>
-                </div>
-                <h3>Yogurts Helados</h3>
-                <p>Yogurt helado y cinco topping arriba</p>
+            <div id="card">
+
             </div>
         </main>
 
         <footer>
             <a href="https://pampacode.com/" target="_blank"><img src="/img/Logo_PampaCode_White.png" alt="Pampa.code"></a><span>© Todos los derechos reservados.</span>
         </footer>
+
+        <script>
+            var contenido = document.querySelector('#card')
+
+            fetch('/json/productos.json')
+                .then( res => res.json() )
+                .then( datos => {
+                    //console.log(datos)
+                    tabla(datos)
+                })
+
+            function tabla(datos) {
+                
+                var producto = datos[0]
+                contenido.innerHTML = `
+                    <img src=${producto.urlImagen} alt="">
+                    <div class="card-subtitulo">
+                        <span id="seccion">${producto.seccion}</span>
+                        <span id="precio">${producto.precio}</span>
+                    </div>
+                    <h3>${producto.nombre}</h3>
+                    <p>${producto.descripcion}</p>
+                `
+            }
+        </script>
+        
 </body>
 </html>

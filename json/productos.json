@@ -1,0 +1,18 @@
+[
+            {
+                "id": 1,
+                "seccion": "YOGURTS",
+                "nombre": "Yogurt Mediano",
+                "precio": "$220",
+                "descripcion": "Probando muchos caracteres",
+                "urlImagen": "/img/delivery.jpg"
+            },
+            {
+                "id": 2,
+                "seccion": "YOGURTS",
+                "nombre": "yogurt mediano",
+                "precio": "$220",
+                "descripcion": "probando muchos caracteres",
+                "urlImagen": "img-1"
+            }
+        ]
