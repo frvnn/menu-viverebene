@@ -23,7 +23,11 @@ header {
         align-items: center;
         width: 60px;
         height: 60px;
-        margin-top: -9px;
+        position:absolute; 
+        left:0;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
     }
 }
 
