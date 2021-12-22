@@ -6,7 +6,7 @@
                 "nombre": "Yogurt Helado Mini",
                 "precio": "$220",
                 "descripcion": "Probando muchos caracteres",
-                "urlImagen": "/img/delivery.jpg"
+                "urlImagen": "/img/yogurt1.png"
             },
             {
                 "id": 1,
@@ -15,6 +15,6 @@
                 "nombre": "Yogurt Helado Chico",
                 "precio": "$212",
                 "descripcion": "probando muchos caracteres",
-                "urlImagen": "img-1"
+                "urlImagen": "/img/yogurt1.png"
             }
         ]
