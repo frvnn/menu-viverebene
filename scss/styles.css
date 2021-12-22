@@ -267,15 +267,11 @@ main {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 main a {
   text-decoration: none;
-}
-
-h1 {
-  font-family: "Strawberry Blossom";
-  color: #1E8250;
 }
 
 #titulo {
@@ -291,6 +287,7 @@ h1 {
   position: fixed;
   width: 100%;
   top: 60px;
+  font-family: "Strawberry Blossom";
 }
 
 #titulo h1 {
