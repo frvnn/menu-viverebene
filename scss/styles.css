@@ -262,8 +262,7 @@ main {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 80px;
-  min-height: 300px;
+  min-height: 600px;
 }
 
 main a {
