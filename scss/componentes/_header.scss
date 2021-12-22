@@ -14,6 +14,11 @@ header {
         display: flex;
         justify-content: center;
         align-items: center;
+        height: 60px;
+        a {
+            display: flex;
+            align-items: center;
+        }
     }
     #back {
         background-color: white;
@@ -31,7 +36,11 @@ header {
     }
 }
 
-#logo {
-    margin-top: 5px;
+#logo-up {
     width: 50px;
+}
+
+#logo-down {
+    margin-top: 5px;
+    width: 90px;
 }
