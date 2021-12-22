@@ -194,7 +194,6 @@ header #back {
 
 footer {
   position: absolute;
-  bottom: 0;
   width: 100%;
   background-color: #1E8250;
   color: #FFF;
@@ -207,9 +206,7 @@ footer {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 20px;
   font-family: "Antipasto-Regular";
-  margin-bottom: 0px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -266,6 +263,7 @@ main {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 100px;
+  margin-bottom: 70px;
 }
 
 main a {
