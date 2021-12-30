@@ -4,6 +4,8 @@
 @import "componentes/header";
 @import "componentes/footer";
 
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;600&display=swap');
+
 @font-face {
 	font-family: "Antipasto-Regular";
 	src: url("/fonts/Strawberry\ Blossom.ttf");
@@ -48,7 +50,7 @@ main {
     font-family: $fuente;
     h1 {
         color: $blanco;
-        margin: 20px;
+        margin: 15px;
         text-align: center;
         font-size: 25px;
     }

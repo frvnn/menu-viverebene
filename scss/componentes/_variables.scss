@@ -1,16 +1,16 @@
-$fuente: 'Antipasto-Regular';
-$fuente-seccion: 'Antipasto-Regular';
+$fuente: 'Spline Sans';
+$fuente-seccion: 'Spline Sans';
 $gris-claro: #F2F3F380;
 $verde: #1E8250;
 $gris-oscuro:#707070;
 $blanco: #FFF;
 $background-cards: #f5f5f5d0;
 
-$nombre-producto: 20px;
+$nombre-producto: 18px;
 
 @mixin h3 {
     font-family: $fuente;
     color: $verde;
-    font-size: 25px;
+    font-size: 20px;
     padding-left: 15px;
 }
