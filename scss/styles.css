@@ -52,17 +52,17 @@
 }
 
 .categoria h3 {
-  font-family: "Strawberry Blossom";
+  font-family: "Antipasto-Regular";
   color: #1E8250;
-  font-size: 35px;
+  font-size: 25px;
   padding-left: 15px;
 }
 
 .categoria h4 {
-  font-family: "Strawberry Blossom";
+  font-family: "Antipasto-Regular";
   color: #1E8250;
   padding-left: 15px;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 #card {
@@ -124,9 +124,9 @@
 }
 
 #card h3 {
-  font-family: "Strawberry Blossom";
+  font-family: "Antipasto-Regular";
   color: #1E8250;
-  font-size: 35px;
+  font-size: 25px;
   padding-left: 15px;
   margin: 0px;
   padding-left: 18px;
@@ -249,7 +249,7 @@ footer img {
 }
 
 @font-face {
-  font-family: "Strawberry Blossom";
+  font-family: "Antipasto-Regular";
   src: url("/fonts/Strawberry Blossom.ttf");
 }
 
@@ -303,13 +303,13 @@ main a {
   position: fixed;
   width: 100%;
   top: 60px;
-  font-family: "Strawberry Blossom";
+  font-family: "Antipasto-Regular";
 }
 
 #titulo h1 {
   color: #FFF;
-  margin: 10px;
+  margin: 20px;
   text-align: center;
-  font-size: 35px;
+  font-size: 25px;
 }
 /*# sourceMappingURL=styles.css.map */

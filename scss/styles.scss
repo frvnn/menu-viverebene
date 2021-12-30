@@ -5,7 +5,7 @@
 @import "componentes/footer";
 
 @font-face {
-	font-family: "Strawberry Blossom";
+	font-family: "Antipasto-Regular";
 	src: url("/fonts/Strawberry\ Blossom.ttf");
 }
 
@@ -48,8 +48,8 @@ main {
     font-family: $fuente;
     h1 {
         color: $blanco;
-        margin: 10px;
+        margin: 20px;
         text-align: center;
-        font-size: 35px;
+        font-size: 25px;
     }
 }
