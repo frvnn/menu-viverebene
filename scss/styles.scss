@@ -31,7 +31,7 @@ main {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 120px;
     margin-bottom: 70px;
     a {
         text-decoration: none;
@@ -39,7 +39,7 @@ main {
 }
 
 #titulo {
-    height: 60px;
+    height: 90px;
     background-color: $verde;
     display: flex;
     justify-content: center;
@@ -50,8 +50,37 @@ main {
     font-family: $fuente;
     h1 {
         color: $blanco;
-        margin: 15px;
+        margin: 30px 0px 30px 15px;
         text-align: center;
         font-size: 25px;
     }
+}
+
+#iconos-ind {
+    display: flex;
+    place-self: center;
+    width: 40px;
+    height: 40px;
+}
+#direcciones {
+    font-family: $fuente;
+    color: white;
+    font-size: 7px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 55px;
+}
+
+#direcciones-home {
+    display: flex;
+    font-family: $fuente;
+    color: white;
+    font-size: 7px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 70px;
 }
