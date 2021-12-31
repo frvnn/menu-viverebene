@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap");
 .categoria {
   padding: 9px;
   background: var(--unnamed-color-f2f3f380) 0% 0% no-repeat padding-box;
@@ -53,17 +53,18 @@
 }
 
 .categoria h3 {
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   color: #1E8250;
-  font-size: 20px;
+  font-size: 27px;
   padding-left: 15px;
 }
 
 .categoria h4 {
-  font-family: "Spline Sans";
   color: #1E8250;
   padding-left: 10px;
   font-size: 18px;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 20px;
 }
 
 #card {
@@ -100,7 +101,7 @@
   border-radius: 52px;
   text-align: left;
   font: normal normal normal 10px/10px Antipasto Pro;
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   letter-spacing: 0px;
   color: #1E8250;
   display: -webkit-box;
@@ -126,9 +127,9 @@
 }
 
 #card h3 {
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   color: #1E8250;
-  font-size: 20px;
+  font-size: 27px;
   padding-left: 15px;
   margin: 0px;
   margin-top: 10px;
@@ -140,7 +141,7 @@
   text-align: left;
   letter-spacing: 0px;
   color: #808080;
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   font-size: 12px;
   margin-top: 8px;
 }
@@ -229,7 +230,7 @@ footer {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -305,14 +306,14 @@ main a {
   position: fixed;
   width: 100%;
   top: 60px;
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
 }
 
 #titulo h1 {
   color: #FFF;
   margin: 30px 0px 30px 15px;
   text-align: center;
-  font-size: 25px;
+  font-size: 37px;
 }
 
 #iconos-ind {
@@ -325,9 +326,9 @@ main a {
 }
 
 #direcciones {
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   color: white;
-  font-size: 7px;
+  font-size: 11px;
   list-style-type: none;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -347,9 +348,9 @@ main a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-family: "Spline Sans";
+  font-family: "Yanone Kaffeesatz";
   color: white;
-  font-size: 7px;
+  font-size: 11px;
   list-style-type: none;
   display: flex;
   -webkit-box-orient: vertical;

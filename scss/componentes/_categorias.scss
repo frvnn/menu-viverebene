@@ -43,9 +43,10 @@
             @include h3;
         }
         h4 {
-            font-family: $fuente;
             color: $verde;
             padding-left: 10px;
             font-size: $nombre-producto;
+            font-family: $fuente-seccion;
+            font-size: 20px;
         }
 }

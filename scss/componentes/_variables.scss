@@ -1,5 +1,5 @@
-$fuente: 'Spline Sans';
-$fuente-seccion: 'Spline Sans';
+$fuente: 'Yanone Kaffeesatz';
+$fuente-seccion: 'Yanone Kaffeesatz';
 $gris-claro: #F2F3F380;
 $verde: #1E8250;
 $gris-oscuro:#707070;
@@ -11,6 +11,6 @@ $nombre-producto: 18px;
 @mixin h3 {
     font-family: $fuente;
     color: $verde;
-    font-size: 20px;
+    font-size: 27px;
     padding-left: 15px;
 }
