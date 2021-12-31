@@ -340,6 +340,7 @@ main a {
       -ms-flex-pack: center;
           justify-content: center;
   padding-left: 55px;
+  text-align: end;
 }
 
 #direcciones-home {
@@ -359,5 +360,6 @@ main a {
       -ms-flex-pack: center;
           justify-content: center;
   padding-left: 70px;
+  text-align: end;
 }
 /*# sourceMappingURL=styles.css.map */

@@ -11,7 +11,7 @@
             {
                 "id": 1,
                 "tag": "YOGURTS",
-                "seccion": "YOGURTS",
+                "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Chico",
                 "precio": "$220",
                 "descripcion": "Yogurt helado + 3 topping arriba.",
@@ -20,7 +20,7 @@
             {
                 "id": 2,
                 "tag": "YOGURTS",
-                "seccion": "YOGURTS",
+                "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Mediano",
                 "precio": "$280",
                 "descripcion": "Yogurt helado + 5 topping arriba.",
@@ -29,7 +29,7 @@
             {
                 "id": 3,
                 "tag": "YOGURTS",
-                "seccion": "YOGURTS",
+                "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Grande",
                 "precio": "$360",
                 "descripcion": "Se realiza en capas:2 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
@@ -38,7 +38,7 @@
             {
                 "id": 4,
                 "tag": "YOGURTS",
-                "seccion": "YOGURTS",
+                "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Premium",
                 "precio": "$420",
                 "descripcion": "Se realiza en capas:3 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
@@ -47,7 +47,7 @@
             {
                 "id": 5,
                 "tag": "WAFFLES",
-                "seccion": "WAFFLES",
+                "seccion": "Waffles",
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$450",
                 "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa entre d.d.leche, nutella, choc negro y 1 crocante.",
@@ -56,7 +56,7 @@
             {
                 "id": 6,
                 "tag": "WAFFLES",
-                "seccion": "WAFFLES",
+                "seccion": "Waffles",
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$450",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
@@ -65,7 +65,7 @@
             {
                 "id": 7,
                 "tag": "WAFFLES",
-                "seccion": "WAFFLES",
+                "seccion": "Waffles",
                 "nombre": "Waffle Bubble Al Plato",
                 "precio": "$650",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
@@ -74,7 +74,7 @@
             {
                 "id": 8,
                 "tag": "WAFFLES",
-                "seccion": "WAFFLES",
+                "seccion": "Waffles",
                 "nombre": "Waffle Bubble Roll",
                 "precio": "$600",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas enrollado, que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
@@ -83,7 +83,7 @@
             {
                 "id": 9,
                 "tag": "WAFFLES",
-                "seccion": "WAFFLES",
+                "seccion": "Waffles",
                 "nombre": "Waffle Bubble Cono",
                 "precio": "$700",
                 "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes.",
@@ -92,7 +92,7 @@
             {
                 "id": 10,
                 "tag": "BATIDOS",
-                "seccion": "BATIDOS",
+                "seccion": "Batidos",
                 "nombre": "Batidos Chocolatosos",
                 "precio": "$---",
                 "descripcion": "Mediano y grande",
@@ -101,7 +101,7 @@
             {
                 "id": 11,
                 "tag": "BATIDOS",
-                "seccion": "BATIDOS",
+                "seccion": "Batidos",
                 "nombre": "Batidos Frutales",
                 "precio": "$---",
                 "descripcion": "Mediano y grande",
@@ -110,7 +110,7 @@
             {
                 "id": 12,
                 "tag": "BATIDOS",
-                "seccion": "BATIDOS",
+                "seccion": "Batidos",
                 "nombre": "Licuados de medio litro",
                 "precio": "$260",
                 "descripcion": "",
@@ -119,7 +119,7 @@
             {
                 "id": 13,
                 "tag": "BATIDOS",
-                "seccion": "BATIDOS",
+                "seccion": "Batidos",
                 "nombre": "Licuados de un litro",
                 "precio": "$360",
                 "descripcion": "",
