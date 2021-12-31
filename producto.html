@@ -34,7 +34,7 @@
         </header>
 
         <section id="titulo">
-            <h1>Yogurts Helados</h1>
+            
         </section>
 
         <main>
@@ -56,6 +56,7 @@
             console.log(numeroProducto)
 
             var contenido = document.querySelector('#card')
+            var titulo = document.querySelector('#titulo')
 
             fetch('/json/productos.json')
                 .then( res => res.json() )
@@ -75,6 +76,9 @@
                     </div>
                     <h3>${producto.nombre}</h3>
                     <p>${producto.descripcion}</p>
+                `
+                titulo.innerHTML = `
+                    <h1>${producto.seccion}</h1>
                 `
             }
 
