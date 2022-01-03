@@ -140,9 +140,9 @@
 
 #card p {
   padding-left: 18px;
+  padding-right: 10px;
   text-align: left;
-  letter-spacing: 0px;
-  color: #808080;
+  color: #6e6e6e;
   font-family: "Yanone Kaffeesatz";
   font-size: 16px;
   margin-top: 8px;
