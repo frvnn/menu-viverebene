@@ -90,7 +90,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  margin: 15px 15px 4px 15px;
+  margin: 8px 15px 4px 15px;
 }
 
 #card .card-subtitulo #seccion {
