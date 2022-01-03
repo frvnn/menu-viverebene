@@ -1,7 +1,8 @@
 footer {
     position: absolute;
     //left: 0;
-    //bottom: 0;
+    bottom: calc(-50px);
+    z-index: 20;
     width: 100%;
     background-color: $verde;
     color: $blanco;
