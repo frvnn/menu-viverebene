@@ -124,5 +124,32 @@
                 "precio": "$360",
                 "descripcion": "",
                 "urlImagen": "/img/missing.jpg"
+            },
+            {
+                "id": 14,
+                "tag": "YOGURTS",
+                "seccion": "Delivery",
+                "nombre": "1KG Yogurt Helado",
+                "precio": "$1200",
+                "descripcion": "1 Kg yogurt helado + 5 topping a libre elección",
+                "urlImagen": "/img/missing.jpg"
+            },
+            {
+                "id": 15,
+                "tag": "YOGURTS",
+                "seccion": "Delivery",
+                "nombre": "1/2Kg Yogurt Helado",
+                "precio": "$700",
+                "descripcion": "1/2 Kg yogurt helado + 4 topping a libre elección",
+                "urlImagen": "/img/missing.jpg"
+            },
+            {
+                "id": 16,
+                "tag": "YOGURTS",
+                "seccion": "Delivery",
+                "nombre": "1/4Kg Yogurt Helado",
+                "precio": "$380",
+                "descripcion": "1/4 Kg yogurt helado + 3 topping a libre elección. (Desarmado $420)",
+                "urlImagen": "/img/missing.jpg"
             }
         ]

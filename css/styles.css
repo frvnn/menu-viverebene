@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap");
 .categoria {
   padding: 9px;
   background: var(--unnamed-color-f2f3f380) 0% 0% no-repeat padding-box;
@@ -7,13 +8,20 @@
   border-radius: 15px;
   width: 300px;
   height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
   margin-bottom: 20px;
-<<<<<<< HEAD
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center; }
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+          box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+}
 
 .categoria img {
   width: 50px;
@@ -21,7 +29,15 @@
   border: 0.5px solid var(--unnamed-color-1e8250);
   background: transparent url("img/Yogurt Premium PNG sin fondo.png") 0% 0% no-repeat padding-box;
   border: 0.5px solid #1E8250;
-  border-radius: 5px; }
+  border-radius: 5px;
+  background-color: #FFF;
+}
+
+.categoria #iconos {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
 
 .categoria button {
   height: 25px;
@@ -29,75 +45,53 @@
   border: 0.5px solid #1E8250;
   color: #1E8250;
   border-radius: 50px;
-  margin-left: auto; }
+  margin-left: auto;
+}
 
 .categoria button i {
-  margin: 0 auto; }
+  margin: 0 auto;
+}
 
 .categoria h3 {
-  font-family: "Antipasto-Regular";
+  font-family: "Yanone Kaffeesatz";
   color: #1E8250;
-  font-size: 35px;
-  padding-left: 15px; }
+  font-size: 27px;
+  padding-left: 15px;
+}
 
 .categoria h4 {
-  font-family: "Antipasto-Regular";
   color: #1E8250;
-  padding-left: 15px;
-  font-size: 28px; }
-=======
-  align-items: center;
-  box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25); }
-  .categoria img {
-    width: 50px;
-    height: 50px;
-    border: 0.5px solid var(--unnamed-color-1e8250);
-    background: transparent url("img/Yogurt Premium PNG sin fondo.png") 0% 0% no-repeat padding-box;
-    border: 0.5px solid #1E8250;
-    border-radius: 5px;
-    background-color: #FFF; }
-  .categoria button {
-    height: 25px;
-    width: 25px;
-    border: 0.5px solid #1E8250;
-    color: #1E8250;
-    border-radius: 50px;
-    margin-left: auto; }
-    .categoria button i {
-      margin: 0 auto; }
-  .categoria h3 {
-    font-family: "Strawberry Blossom";
-    color: #1E8250;
-    font-size: 35px;
-    padding-left: 15px; }
-  .categoria h4 {
-    font-family: "Strawberry Blossom";
-    color: #1E8250;
-    padding-left: 15px;
-    font-size: 28px; }
->>>>>>> 67b0326e07f1e0193cd030f3ffd68b3640d2205a
+  padding-left: 10px;
+  font-size: 18px;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 20px;
+}
 
 #card {
-  height: 360px;
-  width: 260px;
+  height: 440px;
+  width: 280px;
   border: 0.5px solid #1E8250;
   border-radius: 15px;
-<<<<<<< HEAD
-  background-color: #f5f5f5d0; }
+  background-color: #f5f5f5d0;
+  -webkit-box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+          box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+}
 
 #card img {
-  width: 260px;
-  height: 214px;
-  border-radius: 15px 15px 0px 0px; }
+  width: 280px;
+  height: 234px;
+  border-radius: 15px 15px 0px 0px;
+}
 
 #card .card-subtitulo {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  margin: 15px 15px 4px 15px; }
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 8px 15px 4px 15px;
+}
 
 #card .card-subtitulo #seccion {
   width: 60px;
@@ -106,203 +100,336 @@
   border: 0.5px solid #707070;
   border-radius: 52px;
   text-align: left;
-  font: normal normal normal 10px/10px Antipasto Pro;
-  font-family: "Antipasto-Regular";
+  font: normal normal normal 13px/10px Antipasto Pro;
+  font-family: "Yanone Kaffeesatz";
   letter-spacing: 0px;
   color: #1E8250;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center; }
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 
 #card .card-subtitulo #precio {
   width: 47px;
   height: 20px;
   color: var(--unnamed-color-1e8250);
   text-align: left;
-  font-family: 'Arial Rounded MT';
+  font-family: "Yanone Kaffeesatz";
+  font-size: 30px;
   letter-spacing: 0px;
-  color: #1E8250; }
+  color: #1E8250;
+  font-weight: 600;
+  padding-right: 10px;
+}
 
 #card h3 {
-  font-family: "Antipasto-Regular";
+  font-family: "Yanone Kaffeesatz";
   color: #1E8250;
-  font-size: 35px;
+  font-size: 27px;
   padding-left: 15px;
   margin: 0px;
-  padding-left: 18px; }
+  margin-top: 10px;
+  padding-left: 18px;
+}
 
 #card p {
   padding-left: 18px;
+  padding-right: 10px;
   text-align: left;
-  letter-spacing: 0px;
-  color: #808080;
-  font-family: "Antipasto-Regular";
-  font-size: 12px;
-  margin-top: 8px; }
-=======
-  background-color: #f5f5f5d0;
-  box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25); }
-  #card img {
-    width: 260px;
-    height: 214px;
-    border-radius: 15px 15px 0px 0px; }
-  #card .card-subtitulo {
-    display: flex;
-    justify-content: space-between;
-    margin: 15px 15px 4px 15px; }
-    #card .card-subtitulo #seccion {
-      width: 60px;
-      height: 20px;
-      background: #7AE58C 0% 0% no-repeat padding-box;
-      border: 0.5px solid #707070;
-      border-radius: 52px;
-      text-align: left;
-      font: normal normal normal 10px/10px Antipasto Pro;
-      font-family: "Antipasto-Regular";
-      letter-spacing: 0px;
-      color: #1E8250;
-      display: flex;
-      align-items: center;
-      justify-content: center; }
-    #card .card-subtitulo #precio {
-      width: 47px;
-      height: 20px;
-      color: var(--unnamed-color-1e8250);
-      text-align: left;
-      font-family: 'Arial Rounded MT';
-      letter-spacing: 0px;
-      color: #1E8250; }
-  #card h3 {
-    font-family: "Strawberry Blossom";
-    color: #1E8250;
-    font-size: 35px;
-    padding-left: 15px;
-    margin: 0px;
-    padding-left: 18px; }
-  #card p {
-    padding-left: 18px;
-    text-align: left;
-    letter-spacing: 0px;
-    color: #808080;
-    font-family: "Antipasto-Regular";
-    font-size: 12px;
-    margin-top: 8px; }
->>>>>>> 67b0326e07f1e0193cd030f3ffd68b3640d2205a
+  color: #6e6e6e;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 16px;
+  margin-top: 8px;
+}
 
 header {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   height: 60px;
   top: 0px;
   left: 0px;
   border-bottom: 0.3px solid #707070;
-  background-color: white; }
-  header #head {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center; }
-  header #back {
-    background-color: white;
-    color: #1E8250;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    left: 0;
-    top: 0px;
-    right: 0px;
-    bottom: 0px; }
+  background-color: white;
+}
 
-#logo {
-  margin-top: 9px;
-  margin-bottom: 9px;
-  width: 92px; }
+header #head {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 60px;
+}
+
+header #head a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header #back {
+  background-color: white;
+  color: #1E8250;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#logo-up {
+  width: 50px;
+}
+
+#logo-down {
+  margin-top: 5px;
+  width: 90px;
+}
 
 footer {
   position: absolute;
+  z-index: 20;
   width: 100%;
   background-color: #1E8250;
   color: #FFF;
   text-align: center;
-  height: 25px;
+  height: 30px;
   background-color: #1E8250;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  font-family: "Antipasto-Regular";
-  align-items: center; }
-  footer span {
-    color: #FFF;
-    margin: 10px 10px 10px 5px;
-    text-align: center;
-    font-size: 0.875rem;
-    align-self: center;
-    font-size: 0.7gem; }
-  footer img {
-    width: 50px;
-    height: auto; }
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: "Yanone Kaffeesatz";
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+footer span {
+  color: #FFF;
+  margin: 11px 10px 10px 5px;
+  text-align: center;
+  font-size: 0.5rem;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+footer img {
+  width: 50px;
+  height: auto;
+}
 
 @font-face {
   font-family: "Antipasto-Regular";
-  src: url("/fonts/Antipasto-Regular.ttf"); }
+  src: url("/fonts/Strawberry Blossom.ttf");
+}
 
 @font-face {
   font-family: "Antipasto-Regular";
-  src: url("/fonts/Antipasto-Regular.ttf"); }
+  src: url("/fonts/Antipasto-Regular.ttf");
+}
 
 * {
   margin: 0;
   padding: 0;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
 
 body {
-  background-image: url(/img/background.jpg); }
+  background-image: url(/img/background.jpg);
+}
 
 main {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-<<<<<<< HEAD
-  margin-top: 80px;
-  min-height: 300px; }
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 120px;
+  margin-bottom: 70px;
+}
 
 main a {
-  text-decoration: none; }
-
-h1 {
-  font-family: "Antipasto-Regular";
-  color: #1E8250; }
-=======
-  margin-top: 100px;
-  margin-bottom: 70px; }
-  main a {
-    text-decoration: none; }
->>>>>>> 67b0326e07f1e0193cd030f3ffd68b3640d2205a
+  text-decoration: none;
+}
 
 #titulo {
-  height: 60px;
+  height: 70px;
   background-color: #1E8250;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   margin-bottom: 20px;
   position: fixed;
   width: 100%;
   top: 60px;
-  font-family: "Strawberry Blossom"; }
-  #titulo h1 {
-    color: #FFF;
-    margin: 10px;
-    text-align: center;
-    font-size: 35px; }
+  font-family: "Yanone Kaffeesatz";
+}
+
+#titulo h1 {
+  color: #FFF;
+  margin: 20px 0px 30px 15px;
+  text-align: center;
+  font-size: 37px;
+}
+
+#iconos-ind {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-self: center;
+  width: 40px;
+  height: 40px;
+}
+
+#direcciones {
+  font-family: "Yanone Kaffeesatz";
+  color: white;
+  font-size: 11px;
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 55px;
+  text-align: end;
+}
+
+#direcciones-home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: "Yanone Kaffeesatz";
+  color: white;
+  font-size: 11px;
+  list-style-type: none;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 70px;
+  text-align: end;
+}
+
+#telefono-title {
+  font-family: "Yanone Kaffeesatz";
+  margin-bottom: 10px;
+}
+
+#telefono-title img {
+  width: 20px;
+}
+
+#telefono {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#telefono img {
+  width: 20px;
+  padding-right: 10px;
+}
+
+#telefono a:link {
+  font-family: "Yanone Kaffeesatz";
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#telefono a:visited {
+  color: #2e2e2e;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h3 {
+  margin: 5px;
+}
+
+#container-tel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#lista-gustos {
+  font-family: "Yanone Kaffeesatz";
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+/*# sourceMappingURL=styles.css.map */

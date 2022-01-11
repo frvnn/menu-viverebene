@@ -90,3 +90,50 @@ main {
     padding-left: 70px;
     text-align: end;
 }
+
+#telefono-title {
+    font-family: $fuente;
+    margin-bottom: 10px;
+    img {
+        width: 20px;
+    }
+}
+
+#telefono {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        width: 20px;
+        padding-right: 10px;
+    }
+    a:link {
+        font-family: $fuente;
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: rgb(46, 46, 46);
+        background-color: transparent;
+        text-decoration: none;
+      }
+}
+
+h3 {
+    margin: 5px
+}
+
+#container-tel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#lista-gustos {
+    font-family: $fuente;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
