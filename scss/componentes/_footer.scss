@@ -27,3 +27,9 @@ footer {
         height: auto;
     }
 }
+
+@media (max-width: 1920px) {
+    footer {
+        bottom: 0;
+    }
+}

@@ -6,7 +6,7 @@
                 "nombre": "Yogurt Helado Mini",
                 "precio": "$---",
                 "descripcion": "Yogurt helado + 2 topping arriba.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/yogurts/yogurt-mini.jpg"
             },
             {
                 "id": 1,
@@ -15,7 +15,7 @@
                 "nombre": "Yogurt Helado Chico",
                 "precio": "$220",
                 "descripcion": "Yogurt helado + 3 topping arriba.",
-                "urlImagen": "/img/yogurt-chico.jpg"
+                "urlImagen": "/img/yogurts/yogurt-chico.jpg"
             },
             {
                 "id": 2,
@@ -24,7 +24,7 @@
                 "nombre": "Yogurt Helado Mediano",
                 "precio": "$280",
                 "descripcion": "Yogurt helado + 5 topping arriba.",
-                "urlImagen": "/img/yogurt-mediano.jpg"
+                "urlImagen": "/img/yogurts/yogurt-mediano.jpg"
             },
             {
                 "id": 3,
@@ -33,7 +33,7 @@
                 "nombre": "Yogurt Helado Grande",
                 "precio": "$360",
                 "descripcion": "Se realiza en capas:2 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
-                "urlImagen": "/img/yogurt-grande.jpg"
+                "urlImagen": "/img/yogurts/yogurt-grande.jpg"
             },
             {
                 "id": 4,
@@ -42,7 +42,7 @@
                 "nombre": "Yogurt Helado Premium",
                 "precio": "$420",
                 "descripcion": "Se realiza en capas:3 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/yogurts/yogurt-premium.jpg"
             },
             {
                 "id": 5,
