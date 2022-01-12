@@ -439,5 +439,6 @@ h3 {
   font-size: 20px;
   margin-bottom: 20px;
   text-align: center;
+  text-shadow: 2px 2px 0px #FFFFFF, 2px 2px 0px rgba(0, 0, 0, 0.7);
 }
 /*# sourceMappingURL=styles.css.map */
