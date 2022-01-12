@@ -28,7 +28,7 @@ footer {
     }
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 1000px) {
     footer {
         bottom: 0;
     }
