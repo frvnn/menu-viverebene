@@ -51,7 +51,7 @@
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$450",
                 "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa entre d.d.leche, nutella, choc negro y 1 crocante.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/waffles/waffle-belga.jpg"
             },
             {
                 "id": 6,
@@ -60,7 +60,7 @@
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$450",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/waffles/waffle-belga2.jpg"
             },
             {
                 "id": 7,
@@ -69,7 +69,7 @@
                 "nombre": "Waffle Bubble Al Plato",
                 "precio": "$650",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
             },
             {
                 "id": 8,
@@ -87,7 +87,7 @@
                 "nombre": "Waffle Bubble Cono",
                 "precio": "$700",
                 "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/waffles/waffle-bubble-cono.jpg"
             },
             {
                 "id": 10,
