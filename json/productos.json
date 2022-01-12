@@ -51,7 +51,7 @@
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$450",
                 "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa entre d.d.leche, nutella, choc negro y 1 crocante.",
-                "urlImagen": "/img/waffles/waffle-belga.jpg"
+                "urlImagen": "/img/missing.jpg"
             },
             {
                 "id": 6,
@@ -60,7 +60,7 @@
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$450",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
-                "urlImagen": "/img/waffles/waffle-belga2.jpg"
+                "urlImagen": "/img/waffles/waffle-belga.jpg"
             },
             {
                 "id": 7,
