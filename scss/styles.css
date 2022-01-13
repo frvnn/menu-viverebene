@@ -23,6 +23,15 @@
           box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
 }
 
+.categoria #missing {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 50px;
+  height: 40px !important;
+}
+
 .categoria img {
   width: 50px;
   height: 50px;
@@ -68,8 +77,10 @@
 }
 
 #card {
-  height: 440px;
-  width: 280px;
+  height: 430px;
+  height: calc(100% + 50px);
+  padding-bottom: 20px;
+  width: 300px;
   border: 0.5px solid #1E8250;
   border-radius: 15px;
   background-color: #f5f5f5d0;
@@ -78,8 +89,8 @@
 }
 
 #card img {
-  width: 280px;
-  height: 234px;
+  width: 300px;
+  height: 300px;
   border-radius: 15px 15px 0px 0px;
 }
 
@@ -100,7 +111,7 @@
   border: 0.5px solid #707070;
   border-radius: 52px;
   text-align: left;
-  font: normal normal normal 10px/10px Antipasto Pro;
+  font: normal normal normal 13px/10px Antipasto Pro;
   font-family: "Yanone Kaffeesatz";
   letter-spacing: 0px;
   color: #1E8250;
@@ -254,6 +265,12 @@ footer img {
   height: auto;
 }
 
+@media (min-width: 1000px) {
+  footer {
+    bottom: 0;
+  }
+}
+
 @font-face {
   font-family: "Antipasto-Regular";
   src: url("/fonts/Strawberry Blossom.ttf");
@@ -365,5 +382,72 @@ main a {
           justify-content: center;
   padding-left: 70px;
   text-align: end;
+}
+
+#telefono-title {
+  font-family: "Yanone Kaffeesatz";
+  margin-bottom: 10px;
+}
+
+#telefono-title img {
+  width: 20px;
+}
+
+#telefono {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#telefono img {
+  width: 20px;
+  padding-right: 10px;
+}
+
+#telefono a:link {
+  font-family: "Yanone Kaffeesatz";
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+#telefono a:visited {
+  color: #2e2e2e;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h3 {
+  margin: 5px;
+}
+
+#container-tel {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#lista-gustos {
+  font-family: "Yanone Kaffeesatz";
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  text-shadow: 1px 1px 0px #ffffffb7, 1px 1px 0px rgba(0, 0, 0, 0.2);
 }
 /*# sourceMappingURL=styles.css.map */
