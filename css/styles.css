@@ -8,21 +8,20 @@
   border-radius: 15px;
   width: 300px;
   height: 50px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  flex-direction: row;
   margin-bottom: 20px;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
-          box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+  align-items: center;
+  box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
 }
-
+.categoria #missing {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 50px;
+  height: 40px !important;
+}
 .categoria img {
   width: 50px;
   height: 50px;
@@ -32,13 +31,11 @@
   border-radius: 5px;
   background-color: #FFF;
 }
-
 .categoria #iconos {
   width: 40px;
   height: 40px;
   padding: 5px;
 }
-
 .categoria button {
   height: 25px;
   width: 25px;
@@ -47,18 +44,15 @@
   border-radius: 50px;
   margin-left: auto;
 }
-
 .categoria button i {
   margin: 0 auto;
 }
-
 .categoria h3 {
   font-family: "Yanone Kaffeesatz";
   color: #1E8250;
   font-size: 27px;
   padding-left: 15px;
 }
-
 .categoria h4 {
   color: #1E8250;
   padding-left: 10px;
@@ -75,26 +69,18 @@
   border: 0.5px solid #1E8250;
   border-radius: 15px;
   background-color: #f5f5f5d0;
-  -webkit-box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
-          box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
+  box-shadow: 7px 2px 5px -5px rgba(0, 0, 0, 0.25);
 }
-
 #card img {
   width: 300px;
   height: 300px;
   border-radius: 15px 15px 0px 0px;
 }
-
 #card .card-subtitulo {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
   margin: 8px 15px 4px 15px;
 }
-
 #card .card-subtitulo #seccion {
   width: 60px;
   height: 20px;
@@ -106,17 +92,10 @@
   font-family: "Yanone Kaffeesatz";
   letter-spacing: 0px;
   color: #1E8250;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  align-items: center;
+  justify-content: center;
 }
-
 #card .card-subtitulo #precio {
   width: 47px;
   height: 20px;
@@ -129,7 +108,6 @@
   font-weight: 600;
   padding-right: 10px;
 }
-
 #card h3 {
   font-family: "Yanone Kaffeesatz";
   color: #1E8250;
@@ -139,7 +117,6 @@
   margin-top: 10px;
   padding-left: 18px;
 }
-
 #card p {
   padding-left: 18px;
   padding-right: 10px;
@@ -151,57 +128,34 @@
 }
 
 header {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   height: 60px;
   top: 0px;
   left: 0px;
   border-bottom: 0.3px solid #707070;
   background-color: white;
 }
-
 header #head {
   position: fixed;
   top: 0;
   width: 100%;
   background-color: white;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
   height: 60px;
 }
-
 header #head a {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
-
 header #back {
   background-color: white;
   color: #1E8250;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
   width: 60px;
   height: 60px;
   position: absolute;
@@ -229,28 +183,18 @@ footer {
   text-align: center;
   height: 30px;
   background-color: #1E8250;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   font-family: "Yanone Kaffeesatz";
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
-
 footer span {
   color: #FFF;
   margin: 11px 10px 10px 5px;
   text-align: center;
   font-size: 0.5rem;
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
+  align-self: center;
 }
-
 footer img {
   width: 50px;
   height: auto;
@@ -261,17 +205,14 @@ footer img {
     bottom: 0;
   }
 }
-
 @font-face {
   font-family: "Antipasto-Regular";
   src: url("/fonts/Strawberry Blossom.ttf");
 }
-
 @font-face {
   font-family: "Antipasto-Regular";
   src: url("/fonts/Antipasto-Regular.ttf");
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -283,23 +224,13 @@ body {
 }
 
 main {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   margin-top: 120px;
   margin-bottom: 70px;
 }
-
 main a {
   text-decoration: none;
 }
@@ -307,19 +238,14 @@ main a {
 #titulo {
   height: 70px;
   background-color: #1E8250;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   margin-bottom: 20px;
   position: fixed;
   width: 100%;
   top: 60px;
   font-family: "Yanone Kaffeesatz";
 }
-
 #titulo h1 {
   color: #FFF;
   margin: 20px 0px 30px 15px;
@@ -328,8 +254,6 @@ main a {
 }
 
 #iconos-ind {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   place-self: center;
   width: 40px;
@@ -341,36 +265,22 @@ main a {
   color: white;
   font-size: 11px;
   list-style-type: none;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  flex-direction: column;
+  justify-content: center;
   padding-left: 55px;
   text-align: end;
 }
 
 #direcciones-home {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   font-family: "Yanone Kaffeesatz";
   color: white;
   font-size: 11px;
   list-style-type: none;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  flex-direction: column;
+  justify-content: center;
   padding-left: 70px;
   text-align: end;
 }
@@ -379,35 +289,25 @@ main a {
   font-family: "Yanone Kaffeesatz";
   margin-bottom: 10px;
 }
-
 #telefono-title img {
   width: 20px;
 }
 
 #telefono {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
 }
-
 #telefono img {
   width: 20px;
   padding-right: 10px;
 }
-
 #telefono a:link {
   font-family: "Yanone Kaffeesatz";
   color: black;
   background-color: transparent;
   text-decoration: none;
 }
-
 #telefono a:visited {
   color: #2e2e2e;
   background-color: transparent;
@@ -419,19 +319,10 @@ h3 {
 }
 
 #container-tel {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 #lista-gustos {
@@ -440,5 +331,9 @@ h3 {
   margin-bottom: 20px;
   text-align: center;
   text-shadow: 1px 1px 0px #ffffffb7, 1px 1px 0px rgba(0, 0, 0, 0.2);
+  list-style: none;
+  color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
 }
+
 /*# sourceMappingURL=styles.css.map */
