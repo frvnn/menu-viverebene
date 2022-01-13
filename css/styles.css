@@ -327,10 +327,9 @@ h3 {
 
 #lista-gustos {
   font-family: "Yanone Kaffeesatz";
-  font-size: 20px;
+  font-size: 30px;
   margin-bottom: 20px;
   text-align: center;
-  text-shadow: 1px 1px 0px #ffffffb7, 1px 1px 0px rgba(0, 0, 0, 0.2);
   list-style: none;
   color: white;
   text-shadow: black 0.1em 0.1em 0.2em;
