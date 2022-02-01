@@ -188,6 +188,7 @@ header #head {
       -ms-flex-align: center;
           align-items: center;
   height: 60px;
+  z-index: 2000;
 }
 
 header #head a {
@@ -265,9 +266,15 @@ footer img {
   height: auto;
 }
 
-@media (min-width: 1000px) {
+@media (max-width: 820px) and (min-height: 820px) {
   footer {
-    bottom: 0;
+    position: static !important;
+  }
+}
+
+@media (min-height: 820px) {
+  footer {
+    bottom: 0 !important;
   }
 }
 

@@ -28,8 +28,20 @@ footer {
     }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 820px) and (min-height: 820px) {
     footer {
-        bottom: 0;
+        position: fixed;
+    }
+}
+
+@media (min-height: 820px) {
+    footer {
+        bottom: 0 !important;
+    }
+}
+
+@media (max-height: 820px) and (max-width: 700px) {
+    #footer-special {
+        bottom: 0 !important;
     }
 }
