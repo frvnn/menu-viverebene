@@ -201,9 +201,19 @@ footer img {
   height: auto;
 }
 
+<<<<<<< HEAD
 @media (min-width: 1440px) {
+=======
+@media (max-width: 820px) and (min-height: 820px) {
+>>>>>>> 07383617193ee76657b30c15563665f3d53ce501
   footer {
-    bottom: 0;
+    position: static !important;
+  }
+}
+
+@media (min-height: 820px) {
+  footer {
+    bottom: 0 !important;
   }
 }
 @font-face {
