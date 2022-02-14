@@ -4,7 +4,7 @@
                 "tag": "YOGURTS",
                 "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Mini",
-                "precio": "$---",
+                "precio": "$200",
                 "descripcion": "Yogurt helado + 2 topping arriba.",
                 "urlImagen": "/img/yogurts/yogurt-mini.jpg"
             },
@@ -13,7 +13,7 @@
                 "tag": "YOGURTS",
                 "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Chico",
-                "precio": "$220",
+                "precio": "$250",
                 "descripcion": "Yogurt helado + 3 topping arriba.",
                 "urlImagen": "/img/yogurts/yogurt-chico.jpg"
             },
@@ -22,7 +22,7 @@
                 "tag": "YOGURTS",
                 "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Mediano",
-                "precio": "$280",
+                "precio": "$320",
                 "descripcion": "Yogurt helado + 5 topping arriba.",
                 "urlImagen": "/img/yogurts/yogurt-mediano.jpg"
             },
@@ -31,7 +31,7 @@
                 "tag": "YOGURTS",
                 "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Grande",
-                "precio": "$360",
+                "precio": "$400",
                 "descripcion": "Se realiza en capas:2 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
                 "urlImagen": "/img/yogurts/yogurt-grande.jpg"
             },
@@ -40,7 +40,7 @@
                 "tag": "YOGURTS",
                 "seccion": "Yogurts Helados",
                 "nombre": "Yogurt Helado Premium",
-                "precio": "$420",
+                "precio": "$490",
                 "descripcion": "Se realiza en capas:3 topping abajo yogurt helado, 3 topping en el medio yogurt helado + una salsa arriba.",
                 "urlImagen": "/img/yogurts/yogurt-premium.jpg"
             },
@@ -49,16 +49,16 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles",
                 "nombre": "Waffle Belga Sandwich",
-                "precio": "$450",
-                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa entre d.d.leche, nutella, choc negro y 1 crocante.",
-                "urlImagen": "/img/missing.jpg"
+                "precio": "$590",
+                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa (nutella , choc negro, dulce de leche)",
+                "urlImagen": "/img/waffles/Waffle_Sandwich.jpg"
             },
             {
                 "id": 6,
                 "tag": "WAFFLES",
                 "seccion": "Waffles",
                 "nombre": "Waffle Belga Al Plato",
-                "precio": "$450",
+                "precio": "$520",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
                 "urlImagen": "/img/waffles/waffle-belga.jpg"
             },
@@ -67,7 +67,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Al Plato",
-                "precio": "$650",
+                "precio": "$750",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
                 "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
             },
@@ -76,80 +76,80 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Roll",
-                "precio": "$600",
+                "precio": "$690",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas enrollado, que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/waffles/Waffle_Bubbleroll.jpg"
             },
             {
                 "id": 9,
                 "tag": "WAFFLES",
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Cono",
-                "precio": "$700",
+                "precio": "$790",
                 "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes.",
-                "urlImagen": "/img/waffles/waffle-bubble-cono.jpg"
+                "urlImagen": "/img/waffles/Waffle_Cono.jpg"
             },
             {
                 "id": 10,
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
                 "nombre": "Batidos Chocolatosos",
-                "precio": "$---",
+                "precio": "$340",
                 "descripcion": "Mediano y grande",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/batidos/batido_chocolatoso.jpg"
             },
             {
                 "id": 11,
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
                 "nombre": "Batidos Frutales",
-                "precio": "$---",
+                "precio": "$340",
                 "descripcion": "Mediano y grande",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/batidos/batido_frutal.jpg"
             },
             {
                 "id": 12,
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
-                "nombre": "Licuados de medio litro",
-                "precio": "$260",
-                "descripcion": "",
-                "urlImagen": "/img/missing.jpg"
+                "nombre": "Licuado de medio litro",
+                "precio": "$300",
+                "descripcion": "•ADICIONAL YOGURT 100$ •ADICIONAL TOPPING 100$",
+                "urlImagen": "/img/licuados/Licuado_Medio-y-Litro.jpg"
             },
             {
                 "id": 13,
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
-                "nombre": "Licuados de un litro",
-                "precio": "$360",
-                "descripcion": "",
-                "urlImagen": "/img/missing.jpg"
+                "nombre": "Licuado de un litro",
+                "precio": "$400",
+                "descripcion": "•ADICIONAL YOGURT 100$ •ADICIONAL TOPPING 100$",
+                "urlImagen": "/img/licuados/Licuado_Medio-y-Litro.jpg"
             },
             {
                 "id": 14,
                 "tag": "YOGURTS",
                 "seccion": "Delivery",
                 "nombre": "1KG Yogurt Helado",
-                "precio": "$1200",
+                "precio": "$1390",
                 "descripcion": "1 Kg yogurt helado + 5 topping a libre elección",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/yogurts/Yogurt_1kg.jpg"
             },
             {
                 "id": 15,
                 "tag": "YOGURTS",
                 "seccion": "Delivery",
                 "nombre": "1/2Kg Yogurt Helado",
-                "precio": "$700",
+                "precio": "$790",
                 "descripcion": "1/2 Kg yogurt helado + 4 topping a libre elección",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/yogurts/Yogurt_1-2kg.jpg"
             },
             {
                 "id": 16,
                 "tag": "YOGURTS",
                 "seccion": "Delivery",
                 "nombre": "1/4Kg Yogurt Helado",
-                "precio": "$380",
+                "precio": "$450",
                 "descripcion": "1/4 Kg yogurt helado + 3 topping a libre elección. (Desarmado $420)",
-                "urlImagen": "/img/missing.jpg"
+                "urlImagen": "/img/yogurts/Yogurt_1-4kg.jpg"
             }
         ]

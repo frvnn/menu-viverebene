@@ -386,6 +386,8 @@ main a {
 }
 
 #telefono-title {
+  color: #FFF;
+  text-shadow: black 0.1em 0.1em 0.2em;
   font-family: "Yanone Kaffeesatz";
   margin-bottom: 10px;
 }
@@ -413,9 +415,10 @@ main a {
 
 #telefono a:link {
   font-family: "Yanone Kaffeesatz";
-  color: black;
+  color: whitesmoke;
   background-color: transparent;
   text-decoration: none;
+  text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 #telefono a:visited {

@@ -92,6 +92,8 @@ main {
 }
 
 #telefono-title {
+    color: $blanco;
+    text-shadow: black 0.1em 0.1em 0.2em;
     font-family: $fuente;
     margin-bottom: 10px;
     img {
@@ -109,9 +111,10 @@ main {
     }
     a:link {
         font-family: $fuente;
-        color: black;
+        color: whitesmoke;
         background-color: transparent;
         text-decoration: none;
+        text-shadow: black 0.1em 0.1em 0.2em;
     }
     a:visited {
         color: rgb(46, 46, 46);
