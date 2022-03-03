@@ -41,6 +41,10 @@
             <div id="card">
 
             </div>
+
+            <div id="gustosBatidos">
+
+            </div>
         </main>
 
         <footer id="footer-special">
@@ -57,11 +61,12 @@
 
             var contenido = document.querySelector('#card')
             var titulo = document.querySelector('#titulo')
+            var listadoGustos = document.querySelector('#gustosBatidos')
 
             fetch('/json/productos.json')
                 .then( res => res.json() )
                 .then( datos => {
-                    //console.log(datos)
+                    console.table(datos)
                     tabla(datos)
                 })
 
@@ -80,8 +85,50 @@
                 titulo.innerHTML = `
                     <h1>${producto.seccion}</h1>
                 `
-            }
+                if (producto.nombre == "Batidos Chocolatosos") {
+                    return listadoGustos.innerHTML = `
+                    <br>
+                    <ul id="lista-gustos">
+                    <h2 id="telefono-title">Chocolatosos</h2>
+                    <li>Nutella</li>
+                    <li>Chocolate negro</li>
+                    <li>Chocolate blanco</li>
+                    <li>Oreo</li>
+                    <li>Chocotorta</li>
+                    <li>Dulce de leche</li>
+                    <li>Marroc</li>
+                    <li>Banana split</li>
+                    <li>Fragolchoc</li>
+                    <li>Frapuccion (Dulce de leche o chocolate)</li>
+                    <br>
+                    </ul>
+                    `
+                }
 
+                if (producto.nombre == "Batidos Frutales") {
+                    return listadoGustos.innerHTML = `
+                    <br>
+                    <ul id="lista-gustos">
+                    <h2 id="telefono-title"> Frutales</h2>
+                    <li>Sardegna (Frutila)</li>
+                    <li>Calabria (Banana)</li>
+                    <li>Sicilia (Durazno)</li>
+                    <li>Toscana (Arandanos/Frutilla)</li>
+                    <li>Liguria (Banana/Frutilla/Durazno)</li>
+                    <li>Lombardia (Arandanos)</li>
+                    <li>Abruzzo (Arandanos/Banana)</li>
+                    <li>Lazio (Moras)</li>
+                    <li>Umbria (Moras/Arandanos)</li>
+                    <li>Puglia (Frutilla/Banana)</li>
+                    <li>Trentino (Frutilla/Moras)</li>
+                    <li>Friuli (Banana/Frutilla/Kiwi)</li>
+                    <li>Piemonte (Frutilla/Arandanos/Moras)</li>
+                    <li>Veneto (Frutila/Durazno)</li>
+                    <br>
+                    </ul>
+                    `
+                }
+            }
         </script>
         
 </body>

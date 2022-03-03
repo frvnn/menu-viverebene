@@ -50,7 +50,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$590",
-                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa (nutella , choc negro, dulce de leche)",
+                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa (nutella , choc negro, dulce de leche). * Adicional de Yogurt $100.",
                 "urlImagen": "/img/waffles/Waffle_Sandwich.jpg"
             },
             {
@@ -59,7 +59,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$520",
-                "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
+                "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $100",
                 "urlImagen": "/img/waffles/waffle-belga.jpg"
             },
             {
@@ -68,7 +68,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Al Plato",
                 "precio": "$750",
-                "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
+                "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $100.",
                 "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
             },
             {
@@ -77,7 +77,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Roll",
                 "precio": "$690",
-                "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas enrollado, que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado.",
+                "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas enrollado, que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $100.",
                 "urlImagen": "/img/waffles/Waffle_Bubbleroll.jpg"
             },
             {
@@ -86,7 +86,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Bubble Cono",
                 "precio": "$790",
-                "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes.",
+                "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes. * Adicional de Yogurt $100.",
                 "urlImagen": "/img/waffles/Waffle_Cono.jpg"
             },
             {
@@ -95,7 +95,7 @@
                 "seccion": "Batidos",
                 "nombre": "Batidos Chocolatosos",
                 "precio": "$340",
-                "descripcion": "Mediano y grande",
+                "descripcion": "",
                 "urlImagen": "/img/batidos/batido_chocolatoso.jpg"
             },
             {
@@ -104,7 +104,7 @@
                 "seccion": "Batidos",
                 "nombre": "Batidos Frutales",
                 "precio": "$340",
-                "descripcion": "Mediano y grande",
+                "descripcion": "",
                 "urlImagen": "/img/batidos/batido_frutal.jpg"
             },
             {
@@ -113,7 +113,7 @@
                 "seccion": "Batidos",
                 "nombre": "Licuado de medio litro",
                 "precio": "$300",
-                "descripcion": "•ADICIONAL YOGURT 100$ •ADICIONAL TOPPING 100$",
+                "descripcion": "",
                 "urlImagen": "/img/licuados/Licuado_Medio-y-Litro.jpg"
             },
             {
@@ -122,7 +122,7 @@
                 "seccion": "Batidos",
                 "nombre": "Licuado de un litro",
                 "precio": "$400",
-                "descripcion": "•ADICIONAL YOGURT 100$ •ADICIONAL TOPPING 100$",
+                "descripcion": "",
                 "urlImagen": "/img/licuados/Licuado_Medio-y-Litro.jpg"
             },
             {
