@@ -47,8 +47,16 @@
             </div>
         </main>
 
-        <footer id="footer-special">
-            <a href="https://pampacode.com/" target="_blank"><img src="/img/Logo_PampaCode_White.png" alt="Pampa.code"></a><span>© Todos los derechos reservados.</span>
+        <footer>
+            <div class="container-footer">
+                    <div>
+                        <a href="https://pampacode.com/" target="_blank"><img src="/img/Logo_PampaCode_White.png" alt="Pampa.code"></a>
+                        <span>© Todos los derechos reservados.</span>
+                    </div>
+                    <div>
+                        <a href="https://www.instagram.com/viverebeneok/" target="_blank"><i class="fab fa-instagram fa-lg"></i></a>
+                    </div>
+            </div>
         </footer>
 
         <script>
@@ -124,6 +132,37 @@
                     <li>Friuli (Banana/Frutilla/Kiwi)</li>
                     <li>Piemonte (Frutilla/Arandanos/Moras)</li>
                     <li>Veneto (Frutila/Durazno)</li>
+                    <br>
+                    </ul>
+                    `
+                }
+
+                if (producto.nombre == "Licuado de medio litro" || "Licuado de un litro") {
+                    return listadoGustos.innerHTML = `
+                    <br>
+                    <ul id="lista-gustos">
+                    <h2 id="telefono-title">Gustos</h2>
+                    <li>Firenze (Frutilla)</li>
+                    <li>Roma (Banana)</li>
+                    <li>Venezia (Durazno)</li>
+                    <li>Napoli (Arandanos/Frutilla)</li>
+                    <li>Milano (Frutilla/Durazno)</li>
+                    <li>Verona (Banana/Frutilla/Durazno)</li>
+                    <li>Genova (Frutos rojos)</li>
+                    <li>Bologna (Anana/Frutilla)</li>
+                    <li>Torino (Durazno/Banana)</li>
+                    <li>Pisa (Frutilla/Banana)</li>
+                    <li>Parma (Sandía)</li>
+                    <li>Positano (Multifruta)</li>
+                    <li>Sorrento (Frutilla/Kiwi/Banana)</li>
+                    <li>Perugia (Naranja/Durazno)</li>
+                    <li>Trieste (Melon/Banana)</li>
+                    <li>Siena (Manzana/Melon)</li>
+                    <li>Agriento (Naranja/Manzana)</li>
+                    <li>Padova (Melon/Naranja)</li>
+                    <li>Messina (Manzana)</li>
+                    <li>Bari (Manzana/Banana)</li>
+                    <li>Trapani (Banana/Arandanos)</li>
                     <br>
                     </ul>
                     `
