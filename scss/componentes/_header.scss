@@ -1,11 +1,9 @@
 header {
     display: flex;
     justify-content: center;
-    height: 60px;
+    height: 70px;
     top: 0px;
     left: 0px;
-    border-bottom: 0.3px solid #707070;
-    background-color: white;
     #head {
         position: fixed;
         top: 0;
@@ -35,8 +33,85 @@ header {
         right: 0px;
         bottom: 0px;
     }
+    #circulo{
+        height:260px;
+        width:260px;
+        background:linear-gradient(331deg, #1e8250 10%, #a0cab5 60%, white 100%);
+        -moz-border-radius:150px;
+        -webkit-border-radius:150px;
+        border-radius:150px;
+        position: absolute;
+        display: flex;
+        place-self: center;
+        top: 95;
+    }
 }
 
+#main-header {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    top: 0px;
+    left: 0px;
+    #head {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        z-index: 2000;
+        a {
+            display: flex;
+            align-items: center;
+        }
+    }
+    #back {
+        background-color: white;
+        color: $verde;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 60px;
+        height: 60px;
+        position:absolute; 
+        left:0;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+    }
+    #circulo{
+        height:260px;
+        width:260px;
+        background:linear-gradient(311deg, rgba(30,130,80,1) 11%, rgba(30,130,80,1) 29%, rgba(255,255,255,1) 83%);
+        -moz-border-radius:150px;
+        -webkit-border-radius:150px;
+        border-radius:150px;
+        position: absolute;
+        display: flex;
+        place-self: center;
+        top: 100px;
+    }
+}
+
+#logo-circulo {
+    height: 200px;
+    padding-left: 44px;
+    padding-bottom: 26px;
+    display: flex;
+    align-self: center;
+}
+
+#ig-main {
+    i { 
+        color:#1c7e4d;
+        padding-left: 260px;
+        padding-top: 25px;
+        text-shadow: rgba(41, 41, 41, 0.397) 1px 1px 4px;
+    }
+}
 #logo-up {
     width: 50px;
 }
@@ -44,4 +119,36 @@ header {
 #logo-down {
     margin-top: 5px;
     width: 90px;
+}
+
+
+
+#titulo-2 {
+    height: 70px;
+    background-color: $verde;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    position: absolute;
+    width: 100%;
+    top: 460px;
+    font-family: $fuente;
+    h1 {
+        color: $blanco;
+        margin: 20px 0px 30px 15px;
+        text-align: center;
+        font-size: 37px;
+    }
+}
+
+#titulo-menu {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    top: 400px;
+    font-size: 45px;
+    font-family: $fuente;
+    color: $blanco;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
