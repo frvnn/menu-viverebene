@@ -50,7 +50,7 @@ header {
 #main-header {
     display: flex;
     justify-content: center;
-    height: 350px;
+    height: 330px;
     top: 0px;
     left: 0px;
     #head {
@@ -92,7 +92,7 @@ header {
         position: absolute;
         display: flex;
         place-self: center;
-        top: 100px;
+        top: 85px;
     }
 }
 
@@ -146,7 +146,7 @@ header {
     justify-content: center;
     position: absolute;
     width: 100%;
-    top: 400px;
+    top: 380px;
     font-size: 45px;
     font-family: $fuente;
     color: $blanco;

@@ -239,7 +239,7 @@ header #circulo {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 350px;
+  height: 330px;
   top: 0px;
   left: 0px;
 }
@@ -302,7 +302,7 @@ header #circulo {
   display: -ms-flexbox;
   display: flex;
   place-self: center;
-  top: 100px;
+  top: 85px;
 }
 
 #logo-circulo {
@@ -364,7 +364,7 @@ header #circulo {
           justify-content: center;
   position: absolute;
   width: 100%;
-  top: 400px;
+  top: 380px;
   font-size: 45px;
   font-family: "Yanone Kaffeesatz";
   color: #FFF;
