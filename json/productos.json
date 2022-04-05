@@ -50,7 +50,7 @@
                 "seccion": "Waffles",
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$590",
-                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa (nutella , choc negro, dulce de leche). * Adicional de Yogurt $100.",
+                "descripcion": "2 paredes de waffle donde en su interior se pueden elegir 2 frutas, 1 salsa (nutella , choc negro, dulce de leche).",
                 "urlImagen": "/img/waffles/Waffle_Sandwich.jpg"
             },
             {
@@ -151,5 +151,23 @@
                 "precio": "$450",
                 "descripcion": "1/4 Kg yogurt helado + 3 topping a libre elección. (Desarmado $420)",
                 "urlImagen": "/img/yogurts/Yogurt_1-4kg.jpg"
+            },
+            {
+                "id": 17,
+                "tag": "Exprimidos",
+                "seccion": "Exprimidos",
+                "nombre": "Exprimido de Naranja",
+                "precio": "$300",
+                "descripcion": "Exprimido de Naranja",
+                "urlImagen": "/img/exprimidos/Exprimido.jpg"
+            },
+            {
+                "id": 18,
+                "tag": "Limonada",
+                "seccion": "Limonada",
+                "nombre": "Limonadas",
+                "precio": "$300",
+                "descripcion": "Limonada de limón y de frutos rojos.",
+                "urlImagen": "/img/exprimidos/Limonada.jpg"
             }
         ]
