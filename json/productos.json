@@ -157,7 +157,7 @@
                 "tag": "Exprimidos",
                 "seccion": "Exprimidos",
                 "nombre": "Exprimido de Naranja",
-                "precio": "$300",
+                "precio": "$400",
                 "descripcion": "Exprimido de Naranja",
                 "urlImagen": "/img/exprimidos/Exprimido.jpg"
             },
@@ -166,7 +166,7 @@
                 "tag": "Limonada",
                 "seccion": "Limonada",
                 "nombre": "Limonadas",
-                "precio": "$300",
+                "precio": "$400",
                 "descripcion": "Limonada de limón y de frutos rojos.",
                 "urlImagen": "/img/exprimidos/Limonada.jpg"
             },
