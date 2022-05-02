@@ -93,7 +93,7 @@
                 "id": 10,
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
-                "nombre": "Batidos Chocolatosos",
+                "nombre": "Batidos Tentación",
                 "precio": "$390",
                 "descripcion": "",
                 "urlImagen": "/img/batidos/batido_chocolatoso.jpg"
@@ -167,7 +167,7 @@
                 "seccion": "Limonada",
                 "nombre": "Limonadas",
                 "precio": "$400",
-                "descripcion": "Limonada de limón y de frutos rojos.",
+                "descripcion": "■ Limonada de limón | ■ Limonada de frutos rojos",
                 "urlImagen": "/img/exprimidos/Limonada.jpg"
             },
             {
