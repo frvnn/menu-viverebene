@@ -47,16 +47,16 @@
             {
                 "id": 5,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$600",
                 "descripcion": "2 paredes esponjosas de waffle donde se pueden agregar en su interior 1 fruta, 1 salsa entre ( nutella/dulce de leche/chocolate negro/bon o bon) y finalizando con 1 crocante .",
-                "urlImagen": "/img/waffles/Waffle_Sandwich.jpg"
+                "urlImagen": "/img/waffles/waffle_sand_new.JPG"
             },
             {
                 "id": 6,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$640",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
@@ -65,7 +65,7 @@
             {
                 "id": 7,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Bubble Al Plato",
                 "precio": "$900",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150.",
@@ -74,7 +74,7 @@
             {
                 "id": 8,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Bubble Roll",
                 "precio": "$690",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas enrollado, que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150.",
@@ -83,10 +83,10 @@
             {
                 "id": 9,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Bubble Cono",
                 "precio": "$790",
-                "descripcion": "El mas grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes. * Adicional de Yogurt $150.",
+                "descripcion": "El más grande de la familia de los waffles. Una combinacion entre el yogurt helado y el waffle bubble donde el waffle abraza al yogurt helado creando un cono. Guardando en su interior una explosion de sabores entre capas de yogurt helado y combinacion de 2 frutas, 1 salsa, y 1 crocante finalizando con dos obleas crocantes. * Adicional de Yogurt $150.",
                 "urlImagen": "/img/waffles/Waffle_Cono.jpg"
             },
             {
@@ -173,16 +173,16 @@
             {
                 "id": 19,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Belga Sandwich",
                 "precio": "$660",
                 "descripcion": "2 paredes esponjosas de waffle donde se pueden agregar en su interior 1 fruta, 1 salsa entre ( nutella/dulce de leche/chocolate negro/bon o bon) y finalizando con 1 crocante .",
-                "urlImagen": "/img/waffles/Waffle_Sandwich.jpg"
+                "urlImagen": "/img/waffles/waffle_sand_new.JPG"
             },
             {
                 "id": 20,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$700",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
@@ -191,10 +191,55 @@
             {
                 "id": 21,
                 "tag": "WAFFLES",
-                "seccion": "Waffles",
+                "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Bubble Al Plato",
                 "precio": "$1000",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150.",
                 "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
+            },
+            {
+                "id": 22,
+                "tag": "WAFFLES",
+                "seccion": "Waffles, Pancakes y más",
+                "nombre": "Pancakes",
+                "precio": "$0",
+                "descripcion": "Torre de 2 paredes dulces y esponjosas  donde en su interior encontramos una fruta, otra fruta en la parte superior y finalizando con una lluvia de topping crocante y un baño de salsa caliente.",
+                "urlImagen": "/img/waffles/pancakes.JPG"
+            },
+            {
+                "id": 23,
+                "tag": "WAFFLES",
+                "seccion": "Delivery",
+                "nombre": "Pancakes",
+                "precio": "$0",
+                "descripcion": "Torre de 2 paredes dulces y esponjosas  donde en su interior encontramos una fruta, otra fruta en la parte superior y finalizando con una lluvia de topping crocante y un baño de salsa caliente.",
+                "urlImagen": "/img/waffles/pancakes.JPG"
+            },
+            {
+                "id": 24,
+                "tag": "WAFFLES",
+                "seccion": "Waffles, Pancakes y más",
+                "nombre": "Cuore Dolce",
+                "precio": "$0",
+                "descripcion": "3 frutas frescas, burbujas de waffle y un corazón de fondue.",
+                "urlImagen": "/img/waffles/cuore_dolce.JPG"
+            },
+            {
+                "id": 25,
+                "tag": "WAFFLES",
+                "seccion": "Waffles, Pancakes y más",
+                "nombre": "Freddo-Caldo",
+                "precio": "$0",
+                "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
+                "urlImagen": "/img/waffles/freddo_caldo.JPG"
+            },
+            {
+                "id": 26,
+                "tag": "BATIDOS",
+                "seccion": "Delivery",
+                "nombre": "Batidos",
+                "precio": "$0",
+                "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
+                "urlImagen": "/img/batidos/batidos_delivery.JPG"
             }
         ]
