@@ -202,7 +202,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Pancakes",
-                "precio": "$0",
+                "precio": "$650",
                 "descripcion": "Torre de 2 paredes dulces y esponjosas  donde en su interior encontramos una fruta, otra fruta en la parte superior y finalizando con una lluvia de topping crocante y un baño de salsa caliente.",
                 "urlImagen": "/img/waffles/pancakes.JPG"
             },
@@ -211,7 +211,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Delivery",
                 "nombre": "Pancakes",
-                "precio": "$0",
+                "precio": "$650",
                 "descripcion": "Torre de 2 paredes dulces y esponjosas  donde en su interior encontramos una fruta, otra fruta en la parte superior y finalizando con una lluvia de topping crocante y un baño de salsa caliente.",
                 "urlImagen": "/img/waffles/pancakes.JPG"
             },
@@ -220,7 +220,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Cuore Dolce",
-                "precio": "$0",
+                "precio": "$650",
                 "descripcion": "3 frutas frescas, burbujas de waffle y un corazón de fondue.",
                 "urlImagen": "/img/waffles/cuore_dolce.JPG"
             },
@@ -229,7 +229,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Freddo-Caldo",
-                "precio": "$0",
+                "precio": "$600",
                 "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
                 "urlImagen": "/img/waffles/freddo_caldo.JPG"
             },
@@ -241,5 +241,14 @@
                 "precio": "$0",
                 "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
                 "urlImagen": "/img/batidos/batidos_delivery.JPG"
+            },
+            {
+                "id": 27,
+                "tag": "WAFFLES",
+                "seccion": "Waffles, Pancakes y más",
+                "nombre": "Chocolate Caliente",
+                "precio": "$480",
+                "descripcion": "",
+                "urlImagen": "/img/waffles/chocolate_caliente.jpg"
             }
         ]
