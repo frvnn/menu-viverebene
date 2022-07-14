@@ -60,7 +60,7 @@
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$640",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
-                "urlImagen": "/img/waffles/waffle-belga.jpg"
+                "urlImagen": "/img/waffles/waffle_belga_cajita.jpg"
             },
             {
                 "id": 7,
@@ -186,7 +186,7 @@
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$700",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
-                "urlImagen": "/img/waffles/waffle-belga.jpg"
+                "urlImagen": "/img/waffles/waffle_belga_cajita.jpg"
             },
             {
                 "id": 21,
@@ -221,7 +221,7 @@
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Cuore Dolce",
                 "precio": "$650",
-                "descripcion": "3 frutas frescas, burbujas de waffle y un corazón de fondue.",
+                "descripcion": "3 frutas frescas, burbujas de waffle y un corazón de fondue. * Se le puede adicionar yogurt",
                 "urlImagen": "/img/waffles/cuore_dolce.JPG"
             },
             {
@@ -230,7 +230,7 @@
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Freddo-Caldo",
                 "precio": "$600",
-                "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
+                "descripcion": "Una base de bizcochuelo caliente suave esponjoso de sabor vainilla o chocolate .en el medio un colchón de fruta fresca de estación combinado con el delicioso yogur helado y para finalizar  un crocante y una salsa.",
                 "urlImagen": "/img/waffles/freddo_caldo.JPG"
             },
             {
@@ -238,8 +238,8 @@
                 "tag": "BATIDOS",
                 "seccion": "Delivery",
                 "nombre": "Batidos",
-                "precio": "$0",
-                "descripcion": "De base un colchón dulce de chocolate o vainilla, en el medio fruta fresca de estación , copo de yogurt helado y finalízamos con crocante y salsa caliente.",
+                "precio": "",
+                "descripcion": "",
                 "urlImagen": "/img/batidos/batidos_delivery.JPG"
             },
             {
