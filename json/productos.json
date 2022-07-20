@@ -60,7 +60,7 @@
                 "nombre": "Waffle Belga Al Plato",
                 "precio": "$640",
                 "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
-                "urlImagen": "/img/waffles/waffle_belga_cajita.jpg"
+                "urlImagen": "/img/waffles/waffle-belga.jpg"
             },
             {
                 "id": 7,
@@ -114,7 +114,7 @@
                 "nombre": "Licuado de medio litro",
                 "precio": "$400",
                 "descripcion": "",
-                "urlImagen": "/img/licuados/Licuado_Medio-y-Litro.jpg"
+                "urlImagen": "/img/licuados/Licuado_Medio.jpg"
             },
             {
                 "id": 13,
@@ -248,6 +248,15 @@
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Chocolate Caliente",
                 "precio": "$480",
+                "descripcion": "",
+                "urlImagen": "/img/waffles/chocolate_caliente.jpg"
+            },
+            {
+                "id": 28,
+                "tag": "WAFFLES",
+                "seccion": "Delivery",
+                "nombre": "Chocolate Caliente",
+                "precio": "$500",
                 "descripcion": "",
                 "urlImagen": "/img/waffles/chocolate_caliente.jpg"
             }
