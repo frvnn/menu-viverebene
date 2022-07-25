@@ -259,5 +259,32 @@
                 "precio": "$500",
                 "descripcion": "",
                 "urlImagen": "/img/waffles/chocolate_caliente.jpg"
+            },
+            {
+                "id": 29,
+                "tag": "WAFFLES",
+                "seccion": "Delivery",
+                "nombre": "Waffle Belga Sandwich",
+                "precio": "$660",
+                "descripcion": "2 paredes esponjosas de waffle donde se pueden agregar en su interior 1 fruta, 1 salsa entre ( nutella/dulce de leche/chocolate negro/bon o bon) y finalizando con 1 crocante .",
+                "urlImagen": "/img/waffles/waffle_sand_new.JPG"
+            },
+            {
+                "id": 30,
+                "tag": "WAFFLES",
+                "seccion": "Delivery",
+                "nombre": "Waffle Belga Al Plato",
+                "precio": "$700",
+                "descripcion": "Dulce, esponjoso y calentito waffle que se le puede agregar 2 frutas, 1 salsa, y 1 crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150",
+                "urlImagen": "/img/waffles/waffle_belga_cajita.jpg"
+            },
+            {
+                "id": 31,
+                "tag": "WAFFLES",
+                "seccion": "Delivery",
+                "nombre": "Waffle Bubble Al Plato",
+                "precio": "$1000",
+                "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150.",
+                "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
             }
         ]
