@@ -49,7 +49,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Belga Sandwich",
-                "precio": "$600",
+                "precio": "$650",
                 "descripcion": "2 paredes esponjosas de waffle donde se pueden agregar en su interior 1 fruta, 1 salsa entre ( nutella/dulce de leche/chocolate negro/bon o bon) y finalizando con 1 crocante .",
                 "urlImagen": "/img/waffles/waffle_sand_new.JPG"
             },
@@ -103,7 +103,7 @@
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
                 "nombre": "Batidos Frutales",
-                "precio": "$390",
+                "precio": "$500",
                 "descripcion": "",
                 "urlImagen": "/img/batidos/batido_frutal.jpg"
             },
@@ -112,7 +112,7 @@
                 "tag": "BATIDOS",
                 "seccion": "Batidos",
                 "nombre": "Licuado de medio litro",
-                "precio": "$400",
+                "precio": "$500",
                 "descripcion": "",
                 "urlImagen": "/img/licuados/Licuado_Medio.jpg"
             },
@@ -149,7 +149,7 @@
                 "seccion": "Delivery",
                 "nombre": "1/4Kg Yogurt Helado",
                 "precio": "$650",
-                "descripcion": "1/4 Kg yogurt helado + 3 topping a libre elección. (Desarmado $490). • Adicional topping 100$",
+                "descripcion": "1/4 Kg yogurt helado + 3 topping a libre elección. (Desarmado $700). • Adicional topping 100$",
                 "urlImagen": "/img/yogurts/Yogurt_1-4kg.jpg"
             },
             {
@@ -157,7 +157,7 @@
                 "tag": "Exprimidos",
                 "seccion": "Exprimidos",
                 "nombre": "Exprimido de Naranja",
-                "precio": "$400",
+                "precio": "$500",
                 "descripcion": "Exprimido de Naranja",
                 "urlImagen": "/img/exprimidos/Exprimido.jpg"
             },
@@ -166,7 +166,7 @@
                 "tag": "Limonada",
                 "seccion": "Limonada",
                 "nombre": "Limonadas",
-                "precio": "$400",
+                "precio": "$500",
                 "descripcion": "■ Limonada de limón | ■ Limonada de frutos rojos",
                 "urlImagen": "/img/exprimidos/Limonada.jpg"
             },
@@ -193,7 +193,7 @@
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Waffle Bubble Al Plato",
-                "precio": "$1000",
+                "precio": "$1400",
                 "descripcion": "Para compartir. Dulce, esponjoso y calentito waffle con burbujas que se le puede agregar 2 frutas, 1 salsa, y un crocante a libre eleccion y tambien se puede adicionar yogurt helado. * Adicional de Yogurt $150.",
                 "urlImagen": "/img/waffles/waffle-bubble-alplato.jpg"
             },
