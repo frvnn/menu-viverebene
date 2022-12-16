@@ -203,7 +203,7 @@
                 "seccion": "Waffles, Pancakes y más",
                 "nombre": "Pancakes",
                 "precio": "$650",
-                "descripcion": "Torre de 3 capas dulces y esponjosas donde en su interior encontramos una fruta en la primer capa, una cascada de salsa y finalizando con otra fruta mas lluvia de topping crocante. Adicional de yogurt 200 pesos.",
+                "descripcion": "Torre de 3 capas dulces y esponjosas donde en su interior encontramos una fruta en la primer capa, una cascada de salsa en la segunda capa y finalizando con otra fruta más lluvia de topping crocante en la última capa. Adicional de yogurt 200 pesos.",
                 "urlImagen": "/img/waffles/PANCAKES_new.jpg"
             },
             {
@@ -212,7 +212,7 @@
                 "seccion": "Delivery",
                 "nombre": "Pancakes",
                 "precio": "$750",
-                "descripcion": "Torre de 3 capas dulces y esponjosas donde en su interior encontramos una fruta en la primer capa, una cascada de salsa y finalizando con otra fruta mas lluvia de topping crocante. Adicional de yogurt 200 pesos.",
+                "descripcion": "Torre de 3 capas dulces y esponjosas donde en su interior encontramos una fruta en la primer capa, una cascada de salsa en la segunda capa y finalizando con otra fruta más lluvia de topping crocante en la última capa. Adicional de yogurt 200 pesos.",
                 "urlImagen": "/img/waffles/PANCAKES_new.jpg"
             },
             {
@@ -291,18 +291,18 @@
                 "id": 32,
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
-                "nombre": "Ensalada de frutas coronada con yogurt helado o crema chantilly",
+                "nombre": "Frutillas Vivere",
                 "precio": "$",
-                "descripcion": "- - - - ",
+                "descripcion": "Coronadas con yogurt helado o crema chantilly",
                 "urlImagen": "/img/waffles/ensalada_frutillas.jpg"
             },
             {
                 "id": 33,
                 "tag": "WAFFLES",
                 "seccion": "Waffles, Pancakes y más",
-                "nombre": "Frutillas coronadas con yogurt helado o crema chantilly",
+                "nombre": "Ensalada Vivere",
                 "precio": "$",
-                "descripcion": "- - - - ",
+                "descripcion": "Ensalada frutal coronada con yogurt helado o crema chantilly",
                 "urlImagen": "/img/waffles/ensalada_vivere.jpg"
             },
             {
